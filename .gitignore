@@ -1,0 +1,12 @@
+.DS_STORE
+.ansible
+.ansible-galaxy
+.bash_history
+.bash_logout
+.bashrc
+.cache
+.local
+.profile
+.python_history
+.ssh
+
