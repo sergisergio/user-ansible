@@ -1,6 +1,6 @@
 .DS_STORE
 .ansible
-.ansible-galaxy
+.ansible_galaxy
 .bash_history
 .bash_logout
 .bashrc
@@ -9,4 +9,6 @@
 .profile
 .python_history
 .ssh
+.gitconfig
 /ansible2.7.10
+ansible2.7.10
